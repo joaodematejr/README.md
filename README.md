@@ -23,4 +23,4 @@ Development, design of web and mobile applications for startups and large compan
 </p> -->
   
 
-<!-- ![Snake animation](https://github.com/joaodematejr/joaodematejr/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/joaodematejr/joaodematejr/blob/output/github-contribution-grid-snake.svg) 
