@@ -1,5 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=joaodematejr&repo=joaodematejr&countColorcountColor)
-
 ### Hellow! 👋
 
 Development, design of web and mobile applications for startups and large companies. 
