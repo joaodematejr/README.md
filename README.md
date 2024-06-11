@@ -36,12 +36,7 @@ Development, design of web and mobile applications for startups and large compan
  
  <br/>
  
-<div>
-    <a href="https://github.com/joaodematejr">
-    <p align="center">
-        <p align="left"<a href="#"><img height="300em" src="https://activity-graph.herokuapp.com/graph?username=joaodematejr&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" alt="joaodematejr" align="center" /></a></p>
-    </p>
-  </div>
+
  
  <!-- <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaodematejr" />
